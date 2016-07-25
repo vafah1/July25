@@ -1,0 +1,131 @@
+Assignment
+Vafa Husain
+
+1) The size of a disk file
+   	private double diskSize;
+
+	public double getDiskSize() 
+	{
+		return diskSize;
+	}
+
+	public void setDiskSize(double diskSize) 
+	{
+		this.diskSize = diskSize;
+	} 
+
+
+2) The number of acres in a plot of land
+	private int acresInPlot;
+	
+	public int getAcresInPlot() 
+	{
+	return acresInPlot;
+	}
+
+	public void setAcresInPlot(int acresInPlot) 
+	{
+	this.acresInPlot = acresInPlot;
+	}
+
+3) The name of a file
+	private String fileName;
+
+	public String getFileName() 
+	{
+		return fileName;
+	}
+
+	public void setFileName(String fileName)
+	{
+		this.fileName = fileName;
+	}
+
+4) A fully formatted phone number (i.e. "801-803-3638")
+	private String phoneNumber;
+
+	public String getPhoneNumber()
+	{
+		return phoneNumber;
+	}
+
+	public void setPhoneNumber(String phoneNumber) 
+	{
+		this.phoneNumber = phoneNumber;
+	} 
+
+5) A company name
+	private String companyName;
+
+	public String getCompanyName() 
+	{
+	return companyName;
+	}
+
+	public void setCompanyName(String companyName) 
+	{
+	this.companyName = companyName;
+	}
+6) Today's date
+	private String date;
+
+	public String getDate()
+	{
+	return date;
+	}
+
+	public void setDate(String date) 
+	{
+	this.date = date;
+	}
+
+7) The state of a light switch
+	private boolean isLightSwitchOn;
+
+	public boolean isLightSwitchOn() 
+	{
+	return isLightSwitchOn;
+	}
+
+	public void setLightSwitchOn(boolean isLightSwitchOn) 
+	{
+	this.isLightSwitchOn = isLightSwitchOn;
+	}
+
+
+8) Pi
+	private double pi;
+
+	public double getPi() 
+	{
+	return pi;
+	}
+
+	public void setPi(double pi) 
+	{
+	this.pi = pi;
+	}
+
+9) The speed of light in a vacuum
+	private long lightSpeed;
+
+	public long getLightSpeed() 
+	{
+	return lightSpeed;
+	}
+
+	public void setLightSpeed(long lightSpeed) 
+	{
+	this.lightSpeed = lightSpeed;
+	}
+
+
+
+10) An instance of a class named Vehicle
+	private Vehicle carA;
+
+11) An instance of a class named Address
+	private Address phoenix;
+
+12) An array of instances of a class named Product
+	private Product[] products;
